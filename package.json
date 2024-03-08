@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mailparser": "^3.6.9",
+    "smtp-server": "^3.13.3"
+  }
+}
